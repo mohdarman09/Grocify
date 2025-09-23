@@ -1,12 +1,33 @@
-# React + Vite
+# 🛒 Grocify – Online Grocery Store Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Grocify is a modern and responsive grocery store website built using **React.js** and **Tailwind CSS**.  
+It provides an easy and smooth shopping experience with multiple pages, product categories, and an add-to-cart feature.  
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [Grocify Stores](https://grocifystores.vercel.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Home Page** – Clean hero section with banners and categories  
+- **Multi-page Navigation** – About Us, Contact Us, Categories, Products  
+- **Product Showcase** – Groceries organized into Fruits, Vegetables, Dairy, Grains  
+- **Add to Cart** – Add and manage products in your shopping cart  
+- **Search Bar** – Quickly find items  
+- **Customer Testimonials** – Build trust with feedback  
+- **Responsive Design** – Optimized for desktop, tablet, and mobile  
+- **Fast Build with Vite** – High performance  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Routing:** React Router DOM  
+- **Icons:** React Icons  
+- **Deployment:** Vercel  
+
+---
+
+## 📂 Project Structure
+
