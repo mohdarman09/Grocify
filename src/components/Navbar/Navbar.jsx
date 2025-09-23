@@ -85,6 +85,8 @@ const Navbar = ({ searchItem, setSearchItem }) => {
           </li>
         </ul>
 
+        <Search searchItem={searchItem} setSearchItem={setSearchItem} />
+
         {/* Nav Action  */}
         <div className="flex items-center gap-x-5">
           <NavLink

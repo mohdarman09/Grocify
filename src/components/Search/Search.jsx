@@ -37,7 +37,7 @@ const Search = ({ searchItem, setSearchItem }) => {
         />
 
         {searchItem && showDropdown && (
-          <div className="bg-orange-200 border-2 border-orange-500 rounded-b-lg flex flex-col gap-2 w-80 py-2 -mt-1 -ml-[2px] top-full left-0 absolute z-10">
+          <div className="bg-orange-200 border-2 border-orange-500 rounded-b-lg flex flex-col gap-2 w-113 py-2 -mt-1 -ml-[2px] top-full left-0 absolute z-10">
             {searchProducts.length === 0 ? (
               <p className="text-center">No products found.</p>
             ) : (
